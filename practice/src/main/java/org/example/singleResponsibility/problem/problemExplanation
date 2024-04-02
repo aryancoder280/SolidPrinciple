@@ -1,0 +1,5 @@
+Here in the design the problem is, in a single file we have implemented all the functions. Even if they are not related to each other
+still we have implemented them in a single file. If any function we need to do changes then we would be testing all of the function for no reason just becuase they are in
+a same file.
+
+Here, we are not following S of Solid principle
